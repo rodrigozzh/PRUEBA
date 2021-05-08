@@ -2,5 +2,5 @@ voila>=0.1.8
 bqplot
 numpy
 pandas
-matplotlib
+matplotlib.pyplot
 ipywidgets
