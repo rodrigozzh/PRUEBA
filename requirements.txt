@@ -3,3 +3,4 @@ bqplot
 numpy
 pandas
 matplotlib
+ipywidgets
