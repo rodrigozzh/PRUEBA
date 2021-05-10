@@ -4,5 +4,5 @@ numpy>=1.19.2
 matplotlib>=3.3.2
 pandas>=1.1.3
 ipywidgets>=7.6.3
-%matplotlib widget 
+%matplotlib
 
