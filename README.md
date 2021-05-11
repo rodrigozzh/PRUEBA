@@ -8,4 +8,3 @@ Integrantes:
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rodrigozzh/PRUEBA/HEAD?urlpath=voila%2Frender%2Finfo147_tarea1.ipynb)
-
