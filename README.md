@@ -1,4 +1,4 @@
-# INFO147_Tarea1
+# INFO147_Tarea1 Dashboard interactivo 
 Desarrollo de la Tarea1 del curso INFO147.
 
 Integrantes:
